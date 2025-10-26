@@ -74,8 +74,8 @@ To reproduce or extend the analysis:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/fretbret/motility_analysis.git
-   cd motility_analysis
+   git clone https://github.com/fretbret/chlamy-motility-analysis.git
+   cd chlamy-motility-analysis
    ```
 2. Open JupyterLab or VSCode.
 3. Run each script sequentially or explore the notebook interactively:
