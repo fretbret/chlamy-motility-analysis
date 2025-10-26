@@ -74,7 +74,7 @@ To reproduce or extend the analysis:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/<your-username>/motility_analysis.git
+   git clone https://github.com/fretbret/motility_analysis.git
    cd motility_analysis
    ```
 2. Open JupyterLab or VSCode.
